@@ -1,6 +1,6 @@
 # Example-App-Using-AR-Educational-Framework
 
-I developed a example app using all of functionalities supported by the AR Educational Framework. The whole app's funcionalities were develop using the Framework, so only was necessary dragging and placing Framework's Classes and to customize the funcionalities with new 3D objects and Textures (no programmaing was necessary).
+I developed a example app using all of functionalities supported by the AR Educational Framework. The whole app's funcionalities were developed using the Framework, so only was necessary dragging and placing Framework's classes and to customize the funcionalities with new 3D objects and Textures (no programmaing was necessary).
 
 Additional code (located in the folder ManuScripts) was only necessary for menus and the exit buttons.
 
@@ -13,5 +13,6 @@ You need choose the App's Scenario, so answer the questions and point the device
 # Resources
 
 - Markers
+
 link
 https://www.dropbox.com/sh/ar4ypazatkwwze4/AACLZ8tlcfiMK6DNHxCO0l3Ca?dl=0
