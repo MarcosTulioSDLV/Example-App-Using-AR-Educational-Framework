@@ -16,3 +16,5 @@ You need choose the App's Scenario, so answer the questions and point the device
 
 link
 https://www.dropbox.com/sh/ar4ypazatkwwze4/AACLZ8tlcfiMK6DNHxCO0l3Ca?dl=0
+
+THE 3D MODEL "Heart" USED IN THIS APP HAS BEEN MADE BY: elZancudo. original download link: https://www.blendswap.com/blends/view/73924
