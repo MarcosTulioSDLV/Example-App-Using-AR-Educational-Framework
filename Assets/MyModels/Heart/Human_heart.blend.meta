@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: b05c0602d8825aa49acad6fcb452dc48
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aorta
+    100002: Arteritas
+    100004: Auricula_der
+    100006: Auricula_izq
+    100008: //RootNode
+    100010: Venitas
+    100012: Ventriculos
+    400000: Aorta
+    400002: Arteritas
+    400004: Auricula_der
+    400006: Auricula_izq
+    400008: //RootNode
+    400010: Venitas
+    400012: Ventriculos
+    2100000: Azul_
+    2100002: Rojo_Vena
+    2100004: Auricula_Izq_Fresnel
+    2100006: Auricula_DerFresnel
+    2100008: Azul_Cava
+    2100010: Corazon
+    2300000: Aorta
+    2300002: Arteritas
+    2300004: Auricula_der
+    2300006: Auricula_izq
+    2300008: Venitas
+    2300010: Ventriculos
+    3300000: Aorta
+    3300002: Arteritas
+    3300004: Auricula_der
+    3300006: Auricula_izq
+    3300008: Venitas
+    3300010: Ventriculos
+    4300000: Venitas
+    4300002: Arteritas
+    4300004: Auricula_izq
+    4300006: Aorta
+    4300008: Auricula_der
+    4300010: Ventriculos
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.07
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
