@@ -10,6 +10,9 @@ You need download the: Example App Using AR Educational Framework.apk, and insta
 # Instructions 
 You need choose the App's Scenario, so answer the questions and point the device's camera for the markers for manipulate the objects in Augmented Reality
 
+Documentation of Instructions (portuguese version):
+https://www.dropbox.com/s/lzo0xmk4bwm378k/Instru%C3%A7%C3%B5es%20App%20Exemplo%20Usando%20AR%20Educational%20Framework.pdf?dl=0
+
 # Resources
 
 - Markers
