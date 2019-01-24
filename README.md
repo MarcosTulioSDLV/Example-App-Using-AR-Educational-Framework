@@ -4,6 +4,8 @@ I developed a example app using all of functionalities supported by the AR Educa
 
 Additional code (located in the folder ManuScripts) was only necessary for menus and the exit buttons.
 
+[See Video!](https://www.youtube.com/watch?v=hoPUzgJayUY&t=2s)
+
 # Installation
 You need download the: Example App Using AR Educational Framework.apk, and install it in you Android Device. 
 
